@@ -51,7 +51,7 @@ const detailOrQuote =
 const About = () => {
   return (
     <section className="padding" id="about">
-      <img className="background" src="https://ideogram.ai/assets/progressive-image/balanced/response/6vg5YZeXSUW2okXbSfBhgQ" alt={imageAltText} />
+      <img className="background" src="https://ideogram.ai/assets/progressive-image/balanced/response/r03rpxuiRuCponp1Cp7EmA" alt={imageAltText} />
       <div
         style={{
           backgroundColor: "white",
